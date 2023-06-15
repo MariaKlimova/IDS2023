@@ -6,3 +6,5 @@
 _Со ссылками на конспект (ссылка на видео лежит внутри)_
 1.  [Node.js](https://www.notion.so/Node-js-afd62c88c9e24a47b25d446e0f6630c8?pvs=4)
 
+2. [Node.js](https://www.notion.so/db67548d803a415e8d314722c2a03186?pvs=4)
+
