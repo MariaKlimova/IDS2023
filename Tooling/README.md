@@ -1,0 +1,52 @@
+# Тулинг
+
+## Оглавление ([конспект](https://www.notion.so/d7fca7c8ad0d4ec792519549c9600b89?pvs=4))
+
+- IDE/Terminal (настройка)
+  - Что лучше?
+  - Что полезно/важно для терминала?
+  - Удаленная разработка
+    - Терминал
+    - VS Code Remote developer
+    - CodeServer
+    - JetBrains
+    - Еще варианты
+- Типичный круг задач
+  - Система контроля версий
+    - WebStorm + Git
+    - VS Code + Git
+  - Сборка
+    - Webstorm
+    - VS Code
+  - Навигация по коду
+    - Терминал
+    - Webstorm
+    - VS Code
+  - Рефакторинг
+    - Терминал
+    - Webstorm
+    - VS Code
+  - Линтеры
+    - Терминал
+    - Webstorm
+    - VS Code
+    - В любом варианте
+  - Тесты
+    - Webstorm
+  - Отладка
+    - Терминал
+    - Webstorm
+    - VS Code
+- Полезные ссылки
+- Devtools (Chrome)
+  - Как открыть?
+  - Панель Elements
+  - Панель Console
+  - Панель Sources
+  - Панель Network
+  - Панель Performance
+  - Панель Memory
+  - Панель Coverage
+  - Панель Application
+  - Панель Lighthouse
+  - React developer tools
