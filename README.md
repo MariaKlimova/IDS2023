@@ -9,3 +9,9 @@ _Со ссылками на конспект (ссылка на видео ле�
 2. [Асинхронность](https://www.notion.so/db67548d803a415e8d314722c2a03186?pvs=4)
 
 3. [Тулинг](https://www.notion.so/d7fca7c8ad0d4ec792519549c9600b89?pvs=4)
+
+4. [Типизация](https://www.notion.so/9ef10352f43b4080bcc0bb4f3513e98b?pvs=4)
+
+5. [Типизация - продвинутый](https://www.notion.so/b33cd6c6fa7b48f195adcc65070773b6?pvs=4)
+
+6. [React - база](https://www.notion.so/React-118d6ea05d554b25b2e0dd1a0c4f464b?pvs=4)
