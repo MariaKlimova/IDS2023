@@ -1,13 +1,11 @@
-import {ChangeEvent, ChangeEventHandler, useCallback, useEffect, useReducer, useRef} from "react";
-import {element} from "prop-types";
-
+import React, {ChangeEvent, ChangeEventHandler, useCallback, useEffect, useReducer, useRef} from "react";
 
 const FORM_ACTIONS = {
     setName: 'setName',
     setText: 'setText',
     setRating: 'setRating'
 }
-export const NewReviewForm = () => {
+export const NewReviewForm:React.FC<{classname: string}> = ({classname}) => {
 
     const setFocus = useCallback((element: HTMLInputElement)=>{element.focus()},[])
     const reducer = (state: {name: string, text: string, rating: number}, action: {type: string, payload?: any}) => {
@@ -33,7 +31,7 @@ export const NewReviewForm = () => {
         {type: FORM_ACTIONS.setName, payload: {name: event.target.value}}
     )
     return(
-      <div>
+      <div className={classname}>
           <label>
               Name:
               <input

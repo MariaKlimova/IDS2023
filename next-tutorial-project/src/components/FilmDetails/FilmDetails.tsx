@@ -4,6 +4,7 @@ import {useCount} from "@/hooks/useCount";
 import {FilmInfo} from "@/components/FilmInfo/FilmInfo";
 import {NewReviewForm} from "@/components/NewReviewForm/NewReviewForm";
 
+import styles from './style.module.css';
 interface Props {
     title: string;
     genre: string;
@@ -25,7 +26,7 @@ export const FilmDetails: FunctionComponent<Props> = ({
               {count}
               <button onClick={increment}>+</button>
           </div>
-          <NewReviewForm/>
+          <NewReviewForm classname={styles.reviewForm}/>
       </div>
     )
 };

@@ -1,0 +1,6 @@
+.reviewForm{
+    display: flex;
+    justify-content: center;
+    background-color: aquamarine;
+    flex-direction: column;
+}
